@@ -2,7 +2,7 @@
 
 
 ### Skills & Technologies
-![screenshot](Khabirzyanova/python.svg)
+![screenshot](python.svg)
 
 
 <!--
