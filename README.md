@@ -2,7 +2,7 @@
 
 
 ### Skills & Technologies
-<img src="python.svg" alt="Python" width="100" />
+<img src="python.svg" alt="Python" width="25" />
 
 
 <!--
