@@ -1,4 +1,4 @@
-## <center> Hi👋, I'm Aliya Khabirzyanova </center>
+<center><h2> Hi👋, I'm Aliya Khabirzyanova </h2></center>
 
 
 
