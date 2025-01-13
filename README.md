@@ -1,6 +1,5 @@
-<div align="center">
-## Hi👋, I'm Aliya Khabirzyanova
-</div>
+## <center> Hi👋, I'm Aliya Khabirzyanova </center>
+
 
 
 ### Skills & Technologies
