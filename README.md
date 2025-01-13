@@ -2,7 +2,10 @@
 
 
 ### Skills & Technologies
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,r)
+<!-- 
 <img src="python.svg" alt="Python" width="50" />
+-->
 
 
 <!--
