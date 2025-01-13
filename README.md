@@ -1,9 +1,9 @@
 ## Hi👋, I'm Aliya Khabirzyanova
 
-<!--
+
 ### Skills & Technologies
-python 
--->
+![screenshot](Khabirzyanova/python.svg)
+
 
 <!--
 **Khabirzyanova/Khabirzyanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
