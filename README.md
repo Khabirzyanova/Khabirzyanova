@@ -1,4 +1,4 @@
-<center><h2>Hi👋, I'm Aliya Khabirzyanova</h2></center>
+<h1 style="text-align: center;">Hi👋, I'm Aliya Khabirzyanova</h1>
 
 
 
