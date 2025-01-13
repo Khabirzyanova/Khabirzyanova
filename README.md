@@ -2,8 +2,7 @@
 <h1 align="center"> Hi👋, I'm Aliya Khabirzyanova! </h1>
 
 
-
-:hammer_and_wrench: ### Skills & Technologies
+### :hammer_and_wrench: Skills & Technologies
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,huggingface)
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sql)
 <!-- 
