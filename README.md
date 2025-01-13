@@ -2,7 +2,7 @@
 
 
 ### Skills & Technologies
-![screenshot](python.svg)
+![screenshot](python.svg)[:100]
 
 
 <!--
