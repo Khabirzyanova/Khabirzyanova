@@ -3,7 +3,7 @@
 
 
 ### Skills & Technologies
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,pytorch)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,huggingface)
 <!-- 
 <img src="python.svg" alt="Python" width="50" />
 -->
