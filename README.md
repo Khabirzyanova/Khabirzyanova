@@ -4,6 +4,7 @@
 
 ### Skills & Technologies
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,huggingface)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sql)
 <!-- 
 <img src="python.svg" alt="Python" width="50" />
 -->
