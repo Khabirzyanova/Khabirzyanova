@@ -2,7 +2,7 @@
 
 
 ### Skills & Technologies
-![screenshot](python.svg)[10,10]
+<img src="python.svg" alt="Python" width="10" />
 
 
 <!--
